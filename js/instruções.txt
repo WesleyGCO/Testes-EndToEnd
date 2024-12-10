@@ -1,0 +1,8 @@
+Instalar:
+npm install cypress --save-dev
+
+Iniciar o painel cypress:
+npx cypress open
+
+Rodar testes no CMD:
+npx cypress run
